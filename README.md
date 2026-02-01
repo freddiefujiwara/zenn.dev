@@ -14,7 +14,7 @@ Property Based Testing（プロパティベーステスト）に関する一連�
 | アイコン | タイトル | トピックス | ステータス |
 | :---: | :--- | :--- | :---: |
 | 😸 | [Property based testing を試してみよう](articles/bddab9fa450752863166.md) | fast-check, property-based-testing | 公開中 |
-| 👏 | [話題沸騰ポットに対して Property based testing を試してみる (1)蓋の開け閉め、水を充填させる](articles/2518b90ba400c7b3cbbc.md) | property-based-testing, fast-check, 話題沸騰ポット, テスト | 下書き |
+| 👏 | [話題沸騰ポットに対して Property based testing を試してみる (1)蓋の開け閉め、水を充填させる](articles/2518b90ba400c7b3cbbc.md) | property-based-testing, fast-check, 話題沸騰ポット, テスト | 公開中 |
 | 🦔 | [話題沸騰ポットに対して Property based testing を試してみる (2)給湯(水)させる](articles/1102985171e27df41a9b.md) | property-based-testing, fast-check, 話題沸騰ポット, テスト | 公開中 |
 | 🌟 | [話題沸騰ポットに対して Property based testing を試してみる(3)沸騰/保温-状態遷移を考える](articles/2b756c74564301a6dfbc.md) | property-based-testing, state-machine-cat, statemachine, 話題沸騰ポット, テスト | 公開中 |
 | 😺 | [話題沸騰ポットに対して Property based testing を試してみる(4)沸騰/保温-状態遷移の実装を変更](articles/ef01e36e0b9fe6b7109e.md) | テスト, fast-check, property-based-testing, 話題沸騰ポット | 公開中 |
