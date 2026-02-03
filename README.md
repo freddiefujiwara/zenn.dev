@@ -29,6 +29,7 @@ Property Based Testing（プロパティベーステスト）に関する一連�
 | 📌 | [マイヤーズの三角形の問題のテスト対象を google formsで作る](articles/7bc085de7e4324f8306d.md) | gas, テスト, GoogleAppsScript, googleform | 公開中 |
 | 🌊 | [実践リスクベーステスト-PRISMAメソッド-というpdfを原著者から翻訳と公開に関して許可をとって。翻訳してみました](articles/9b0eb1a4c80e58caf53d.md) | test, QAエンジニア, リスク管理, テスト | 公開中 |
 | 🗂 | [GASでGoogle Docs→Markdown APIを作ったら激遅だったので、Code.jsでやった高速化の工夫まとめ](articles/a82a79d98c2bbd.md) | gas, GoogleAppScript, API | 公開中 |
+| ⚡ | [GASでDocumentAppが遅い？CacheServiceで“体感速度”を改善する実践設計](articles/72f96c72a32018.md) | gas, googleappscripts, cache, performance | 下書き |
 | 😽 | [Google Homeを使って規則正しい生活をしたい](articles/92bb37d304c1beb0d0ea.md) | ifttt, gas, GoogleAppsScript, GoogleHome | 公開中 |
 | 🍣 | [FlutterアプリをGitHub Actionsを使ってwebとapkを同時にbuildし公開するまで](articles/89a503744480671e2ca3.md) | Android, AndroidStudio, Flutter, PWA, GitHubActions | 公開中 |
 | 👏 | [かんたん　Appleのヘルスデータをエクスポート、解析、csvに変換する方法](articles/253ba4875ae950f979d5.md) | Healthcare, Node.js, apple | 公開中 |
