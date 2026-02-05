@@ -38,6 +38,7 @@ Google Apps Script を用いたツールの開発や高速化に関する記事�
 | ⚡ | [GASでDocumentAppが遅い？CacheServiceで“体感速度”を改善する実践設計](articles/72f96c72a32018.md) | gas, googleappscripts, cache, performance | 下書き |
 | 📌 | [マイヤーズの三角形の問題のテスト対象を google formsで作る](articles/7bc085de7e4324f8306d.md) | gas, テスト, GoogleAppsScript, googleform | 公開中 |
 | 😽 | [Google Homeを使って規則正しい生活をしたい](articles/92bb37d304c1beb0d0ea.md) | ifttt, gas, GoogleAppsScript, GoogleHome | 公開中 |
+| 🖼️ | [GASでOGP画像を自動生成する: Googleスライドをテンプレ化してPNGを返すWeb API](articles/162b0f82ed904c.md) | gas, googleappscripts, ogp, slides | 下書き |
 
 ### モバイルアプリ開発・CI/CD
 Flutterなどのモバイル開発や、GitHub Actions を用いた自動化に関する記事です。
