@@ -20,6 +20,8 @@ Google Apps Script（GAS）でAPIを作ると、**「Swagger UIだと動かな�
 - **レスポンス表示領域**（右下）
 
 Vueで1画面完結のツールとして実装しています。
+- [ツール](http://freddiefujiwara.com/openapi-fetch/)
+- [ソース](https://github.com/freddiefujiwara/openapi-fetch/)
 
 ---
 
