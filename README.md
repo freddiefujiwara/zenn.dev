@@ -35,10 +35,11 @@ Google Apps Script を用いたツールの開発や高速化に関する記事�
 | アイコン | タイトル | トピックス | ステータス |
 | :---: | :--- | :--- | :---: |
 | 🗂 | [GASでGoogle Docs→Markdown APIを作ったら激遅だったので、Code.jsでやった高速化の工夫まとめ](articles/a82a79d98c2bbd.md) | gas, GoogleAppScript, API | 公開中 |
-| ⚡ | [GASでDocumentAppが遅い？CacheServiceで“体感速度”を改善する実践設計](articles/72f96c72a32018.md) | gas, googleappscripts, cache, performance | 下書き |
+| ⚡ | [GASでDocumentAppが遅い？CacheServiceで“体感速度”を改善する実践設計](articles/72f96c72a32018.md) | gas, googleappscripts, cache, performance | 公開中 |
 | 📌 | [マイヤーズの三角形の問題のテスト対象を google formsで作る](articles/7bc085de7e4324f8306d.md) | gas, テスト, GoogleAppsScript, googleform | 公開中 |
 | 😽 | [Google Homeを使って規則正しい生活をしたい](articles/92bb37d304c1beb0d0ea.md) | ifttt, gas, GoogleAppsScript, GoogleHome | 公開中 |
 | 🖼️ | [GASでOGP画像を自動生成する: Googleスライドをテンプレ化してPNGを返すWeb API](articles/162b0f82ed904c.md) | gas, googleappscripts, ogp, slides | 下書き |
+| 🌟 | [GAS×OpenAPIの「デバッグしづらい」を解消する、軽量APIテスターを自作した話](articles/ab2feabb6f6289.md) | gas, openapi, vue, swagger | 公開中 |
 
 ### モバイルアプリ開発・CI/CD
 Flutterなどのモバイル開発や、GitHub Actions を用いた自動化に関する記事です。
@@ -52,7 +53,8 @@ Vue.js やフロントエンド開発に関する記事です。
 
 | アイコン | タイトル | トピックス | ステータス |
 | :---: | :--- | :--- | :---: |
-| 🤖 | [私が作った「Markdown→画像化」ツールを技術解説してみた](articles/7be480eef47990.md) | markdown, tips, Vue | 下書き |
+| 🤖 | [私が作った「Markdown→画像化」ツールを技術解説してみた](articles/7be480eef47990.md) | markdown, tips, Vue | 公開中 |
+| 💡 | [スワイプ入力（Swipe Typing）練習したくてweb app作ってみた](articles/6415b299ab55e5.md) | vue, typescript, vite, frontend | 公開中 |
 
 ### その他 (Linux / データ解析 / トラブル事例)
 Linux環境でのトラブル事例やデータ解析に関する記事です。
@@ -60,4 +62,4 @@ Linux環境でのトラブル事例やデータ解析に関する記事です。
 | アイコン | タイトル | トピックス | ステータス |
 | :---: | :--- | :--- | :---: |
 | 👏 | [かんたん　Appleのヘルスデータをエクスポート、解析、csvに変換する方法](articles/253ba4875ae950f979d5.md) | Healthcare, Node.js, apple | 公開中 |
-| 🧨 | [umount 失敗のあとに rm -rf して Google Drive の中身を消した話（FUSEマウントの罠）](articles/0bab8f009ce492.md) | bash, linux, googleDrive, fuse, 事故 | 下書き |
+| 🧨 | [umount 失敗のあとに rm -rf して Google Drive の中身を消した話（FUSEマウントの罠）](articles/0bab8f009ce492.md) | bash, linux, googleDrive, fuse, 事故 | 公開中 |
