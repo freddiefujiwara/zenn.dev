@@ -63,3 +63,4 @@ Linux環境でのトラブル事例やデータ解析に関する記事です。
 | :---: | :--- | :--- | :---: |
 | 👏 | [かんたん　Appleのヘルスデータをエクスポート、解析、csvに変換する方法](articles/253ba4875ae950f979d5.md) | Healthcare, Node.js, apple | 公開中 |
 | 🧨 | [umount 失敗のあとに rm -rf して Google Drive の中身を消した話（FUSEマウントの罠）](articles/0bab8f009ce492.md) | bash, linux, googleDrive, fuse, 事故 | 公開中 |
+| 🧠 | [JavaScriptでターミナルエディタを自作する：kilo.cポーティングの6年後レポート](articles/9a0b1de1a70c63.md) | javascript, terminal, editor, lowlevel, nodejs | 公開中 |
