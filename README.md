@@ -40,6 +40,7 @@ Google Apps Script を用いたツールの開発や高速化に関する記事�
 | 😽 | [Google Homeを使って規則正しい生活をしたい](articles/92bb37d304c1beb0d0ea.md) | ifttt, gas, GoogleAppsScript, GoogleHome | 公開中 |
 | 🖼️ | [GASでOGP画像を自動生成する: Googleスライドをテンプレ化してPNGを返すWeb API](articles/162b0f82ed904c.md) | gas, googleappscripts, ogp, slides | 下書き |
 | 🌟 | [GAS×OpenAPIの「デバッグしづらい」を解消する、軽量APIテスターを自作した話](articles/ab2feabb6f6289.md) | gas, openapi, vue, swagger | 公開中 |
+| 📑 | [gh-pages + GASで実装するGoogle OAuth認証の実践ガイド](articles/6073d89c0c1924.md) | gh-pages, GAS, OAuth, google | 公開中 |
 
 ### モバイルアプリ開発・CI/CD
 Flutterなどのモバイル開発や、GitHub Actions を用いた自動化に関する記事です。
