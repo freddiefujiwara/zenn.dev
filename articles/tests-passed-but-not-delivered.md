@@ -3,7 +3,7 @@ title: "サイト運営の裏側：テストは全部通ったのに、本番へ
 emoji: "📦"
 type: "tech"
 topics: ["テスト", "ci", "デプロイ", "個人開発"]
-published: false
+published: true
 published_at: 2026-11-14 12:00
 ---
 

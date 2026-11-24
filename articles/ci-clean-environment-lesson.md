@@ -3,7 +3,7 @@ title: "「自分の環境で通る」と「まっさらな環境でも再現す
 emoji: "🧹"
 type: "tech"
 topics: ["ci", "githubactions", "テスト", "switchbot"]
-published: false
+published: true
 published_at: 2026-10-29 12:00
 ---
 

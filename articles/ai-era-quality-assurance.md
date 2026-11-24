@@ -3,7 +3,7 @@ title: "AI時代、人間に残るのは「品質を守る」仕事だった｜R
 emoji: "🎤"
 type: "tech"
 topics: ["qa", "ai", "品質", "カンファレンス"]
-published: false
+published: true
 published_at: 2026-11-14 12:00
 ---
 
